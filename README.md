@@ -1,4 +1,4 @@
-#Projeto de um jogo da memória de umas meus jogos favoritos.
+#Projeto de um jogo da memória de um dos meus jogos favoritos.
 
 https://henriquemldev.github.io/MajoraMask-Memory-Game/
 
